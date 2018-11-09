@@ -1,0 +1,20 @@
+body {
+    background: #000000;
+}
+
+.countdownContainer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    text-align: center;
+    background: black;
+    border:1px solid #00DC00;
+    padding : 10px;
+    box-shadow: 0 0 5px 3px #00DC00;
+    color: #00DC00;
+}
+
+.info{
+    font-size: 80px;
+}
